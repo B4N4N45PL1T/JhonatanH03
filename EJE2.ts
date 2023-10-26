@@ -10,3 +10,5 @@ function esParOImpar(numero: number): string {
   const Rtado = esParOImpar(numero);
   
   console.log(`El número ${numero} es ${Rtado}`);
+
+//Mmg
